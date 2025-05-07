@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinxedup&show_icons=true&locale=en" alt="jinxedup" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinxedup&" alt="jinxedup" /></p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
